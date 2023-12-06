@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maneesha Maduranaga</h1>
 
 
-- 🌱 I’m currently learning **Web Development And Mobile Application Development**
+- 🌱 I’m currently learning **AI ML**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
